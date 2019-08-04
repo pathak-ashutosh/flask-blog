@@ -2,7 +2,7 @@
 A blog (CMS) with entire back-end in Python (Flask)
 
 ### How to run:
-* Download or clone this repository to your local device.
+* Download or clone this repository to your local machine.
 * Open terminal and `cd` to the cloned directory.
 * Install dependencies:
   - install them directly using requirements.txt, or
